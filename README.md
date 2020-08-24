@@ -47,8 +47,8 @@
 
 ### Conference Talks
 
-[Full Stack Angular with NestJS at STL DevFest](https://speakerdeck.com/adwiens/full-stack-angular-with-nestjs) (Late 2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Drag-and-Drop at WindyCity DevFest](https://www.youtube.com/watch?v=UBbI6-QTdec) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Drag-and-Drop at STL DevFest](https://www.youtube.com/watch?v=JIqtgkKx7PE) (2019) &nbsp;&nbsp;&nbsp;&nbsp; TensorFlow.js + Angular at COMO DevFest (2019)
+[Full Stack Angular with NestJS at STL DevFest](https://speakerdeck.com/adwiens/full-stack-angular-with-nestjs) (Late 2019) &#10027; [Angular Drag-and-Drop at WindyCity DevFest](https://www.youtube.com/watch?v=UBbI6-QTdec) (2019) &#10027; [Angular Drag-and-Drop at STL DevFest](https://www.youtube.com/watch?v=JIqtgkKx7PE) (2019) &#10027; TensorFlow.js + Angular at COMO DevFest (2019)
 
 Meetup Talks
 
-[GraphQL: What and Why](https://www.youtube.com/watch?v=uhY81zcT8ns) (2020) &nbsp;&nbsp;&nbsp;&nbsp; [Machine Learning for Front End Features](https://www.youtube.com/watch?v=rGHF3D8YrD0) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Reactive Forms](https://www.youtube.com/watch?v=EduDRsy3GkI) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Drag-and-Drop](https://www.youtube.com/watch?v=jZZQHQLY51s) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [RESTful APIs with Loopback 3](https://www.youtube.com/watch?v=rpiv8SV-7tk) (2017)
+[GraphQL: What and Why](https://www.youtube.com/watch?v=uhY81zcT8ns) (2020) &#10027; [Machine Learning for Front End Features](https://www.youtube.com/watch?v=rGHF3D8YrD0) (2019) &#10027; [Angular Reactive Forms](https://www.youtube.com/watch?v=EduDRsy3GkI) (2019) &#10027; [Angular Drag-and-Drop](https://www.youtube.com/watch?v=jZZQHQLY51s) (2019) &#10027; [RESTful APIs with Loopback 3](https://www.youtube.com/watch?v=rpiv8SV-7tk) (2017)
