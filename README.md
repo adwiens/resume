@@ -1,51 +1,54 @@
-> [andywiens255@gmail.com](mailto:andywiens255@gmail.com) | 
-drewwiens.com | [314.485.9194](tel:3144859194)
-
 ## Drew Wiens – Platform UX Engineer
 
----
+[andywiens255@gmail.com](mailto:andywiens255@gmail.com) &#10027; drewwiens.com &#10027; [314.485.9194](tel:3144859194)
 
 ### Education
 
-* [PhD Computer Science at Cornell University](http://www.cs.cornell.edu/~andrew) **4.0** (Incomplete)
-* [MS Electrical & Computer Engineering at Georgia Tech](https://scholar.google.com/citations?user=_N2X7KwAAAAJ) **3.8** 2015
-* BS Electrical & Computer Engineering at Washington University in St. Louis **3.77** 2013
+* [PhD Computer Science at Cornell University](http://www.cs.cornell.edu/~andrew), 4.0 GPA, Incomplete
+* [MS Electrical & Computer Engineering at Georgia Tech](https://scholar.google.com/citations?user=_N2X7KwAAAAJ), 3.8 GPA, 2015
+* BS Electrical & Computer Engineering at Washington University in St. Louis, 3.77 GPA, 2013
 
 ### Experience
 
-#### 2017 – Present | [Oasis Digital Solutions](http://oasis.digital)
+#### 2020 – Present &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research](http://lamresearch.com) &nbsp;&nbsp; *Contractor*
 
-* Learned Angular 2-10, TypeScript, Angular Material, Node.js, Express.js, Nest.js, Loopback 3, Nrwl Nx, Bazel, Google Cloud Platform, MongoDB, PostgreSQL, GraphQL, and Linux (Daily-driver is Ubuntu 20.04)
-* Completed 6 Angular and Node.js projects in 4 different industries for two Fortune 500 companies, one corporate client, and one startup.
-* Gave talks at 4 conferences in Columbia MO, St. Louis, and Chicago.
-* Gave talks at 5 local Meetups.
-* Taught 8 [Angular Boot Camp](angularbootcamp.com) 3- and 4-day classes as the primary instructor.
-* Co-taught 8 other Angular Boot Camp classes.
-* Passed Google Cloud Platform (GCP) Professional Data Engineer exam on first try in Nov 2019.
+* Angular 9-10, Angular Material, Nrwl Nx, Node.js, Nest.js, RxJS, Jasmine, Karma, Cypress.io, PostgreSQL, GraphQL, MS Teams, Jira, Bitbucket.
 
-#### 2020 – Present | [Coventor](http://coventor.com) & [Lam Research](http://lamresearch.com) (Semiconductors; Fortune 500)
+#### 2017 – Present &nbsp;&nbsp; [Oasis Digital Solutions](http://oasis.digital) &nbsp;&nbsp; *Consultant*
 
-* Angular 9-10, Angular Material, Nrwl Nx, Node.js, Nest.js, RxJS, Jasmine, Karma, Cypress.io, PostgreSQL, GraphQL, MS Teams, Jira, Bitbucket
+* Angular 2-10, TypeScript, Angular Material, Node.js, Express.js, Nest.js, Loopback 3, Nrwl Nx, Bazel, Google Cloud Platform, MongoDB, PostgreSQL, GraphQL, and Linux (Daily-driver is Ubuntu 20.04)
+* Completed 5 Angular and Node.js projects for 2 Fortune 500 companies and 1 corporate client in 3 industries.
+* Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago.
+* Gave 5 talks at local Meetups.
+* Passed Google Cloud Platform (GCP) Professional Data Engineer exam on the first try (Nov 2019).
 
-#### 2019 – 2020 | [Elekta](http://elekta.com) (Medical Devices)
+#### 2017 – Present &nbsp;&nbsp; [Angular Boot Camp](http://angularbootcamp.com) &nbsp;&nbsp; *Corporate Training*
 
-* Angular 8-9, Node.js, Express.js, Jasmine, Karma, Protractor, RxJS, Nrwl Nx, Azure DevOps, Angular Material, MS Teams, Azure Pipelines
+* Taught eight 3-day and 4-day 9-to-5 classes as the primary instructor from 2019-2020.
+* Co-taught eight other Angular Boot Camp classes from 2017-2020.
 
-#### 2018 – 2019 | [Lam Research](http://lamresearch.com) (Semiconductors; Fortune 500)
+#### 2019 – 2020 &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *Contractor*
 
-* Angular 6-8, Angular Material, RxJS, Ag-Grid, ngrx store & effects, Server-Sent Events, Jasmine, Karma, Protractor, Node.js, Express.js, Nrwl Nx, Jira, MS Teams, Bitbucket, Bitbucket Pipelines
-* **231 commits** merged = **27% of all commits** on develop branch (**#2 committer** by volume)
+* Angular 8-9, Node.js, Express.js, Jasmine, Karma, Protractor, RxJS, Nrwl Nx, Azure DevOps, Angular Material, MS Teams, Azure Pipelines.
 
-#### 2018 | [PricewaterhouseCoopers](http://pwc.com) (Finance)
+#### 2018 – 2019 &nbsp;&nbsp; [Lam Research](http://lamresearch.com) &nbsp;&nbsp; *Semiconductors*
 
-* Angular 6-7, RxJS, Node.js, Express.js, Loopback.io v3, MongoDB, Azure Cosmos DB, Jenkins, VSTS, GitHub Enterprise
+* Angular 6-8, Angular Material, RxJS, Ag-Grid, ngrx store & effects, Server-Sent Events, Jasmine, Karma, Protractor, Node.js, Express.js, Nrwl Nx, Jira, MS Teams, Bitbucket, Bitbucket Pipelines.
+* Merged 231 commits = 27% of all commits on develop branch; #2 committer by volume.
 
-#### 2017 – 2018 | [Lam Research](http://lamresearch.com) (Semiconductors; Fortune 500)
+#### 2018 &nbsp;&nbsp; [PricewaterhouseCoopers](http://pwc.com) &nbsp;&nbsp; *Finance*
 
-* Angular 5, Angular Material, RxJS, Node.js, Express.js, Loopback.io v3, Windows 10, Jira, ngrx store, Bitbucket, Apache Solr, PostgreSQL
-* **53 commits** merged = **19% of all commits** on develop branch (**#3 committer** by volume)
+* Angular 6-7, RxJS, Node.js, Express.js, Loopback.io v3, MongoDB, Azure Cosmos DB, Jenkins, VSTS, GitHub Enterprise.
 
-#### 2017 | [Aggio.io](http://aggio.io) (Agriculture)
+#### 2017 – 2018 &nbsp;&nbsp; [Lam Research](http://lamresearch.com) &nbsp;&nbsp; *Semiconductors*
 
-* Angular 5, RxJS, PostgreSQL, Bitbucket, Jira
+* Angular 5, Angular Material, RxJS, Node.js, Express.js, Loopback.io v3, Windows 10, Jira, ngrx store, Bitbucket, Apache Solr, PostgreSQL.
+* Merged 53 commits = 19% of all commits on develop branch; #3 committer by volume.
 
+### Conference Talks
+
+[Full Stack Angular with NestJS at STL DevFest](https://speakerdeck.com/adwiens/full-stack-angular-with-nestjs) (Late 2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Drag-and-Drop at WindyCity DevFest](https://www.youtube.com/watch?v=UBbI6-QTdec) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Drag-and-Drop at STL DevFest](https://www.youtube.com/watch?v=JIqtgkKx7PE) (2019) &nbsp;&nbsp;&nbsp;&nbsp; TensorFlow.js + Angular at COMO DevFest (2019)
+
+Meetup Talks
+
+[GraphQL: What and Why](https://www.youtube.com/watch?v=uhY81zcT8ns) (2020) &nbsp;&nbsp;&nbsp;&nbsp; [Machine Learning for Front End Features](https://www.youtube.com/watch?v=rGHF3D8YrD0) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Reactive Forms](https://www.youtube.com/watch?v=EduDRsy3GkI) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [Angular Drag-and-Drop](https://www.youtube.com/watch?v=jZZQHQLY51s) (2019) &nbsp;&nbsp;&nbsp;&nbsp; [RESTful APIs with Loopback 3](https://www.youtube.com/watch?v=rpiv8SV-7tk) (2017)
