@@ -7,9 +7,9 @@ drewwiens.com | [314.485.9194](tel:3144859194)
 
 ### Education
 
-* PhD Computer Science at Cornell University **4.0** (Incomplete)
-* MS Electrical & Computer Engineering at Georgia Tech **3.8** 2015
-* BS Computer Engineering at Washington University in St. Louis **3.77** 2013
+* [PhD Computer Science at Cornell University](www.cs.cornell.edu/~andrew) **4.0** (Incomplete)
+* [MS Electrical & Computer Engineering at Georgia Tech](https://scholar.google.com/citations?user=_N2X7KwAAAAJ) **3.8** 2015
+* BS Electrical & Computer Engineering at Washington University in St. Louis **3.77** 2013
 
 ### Experience
 
