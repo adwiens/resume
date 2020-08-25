@@ -47,7 +47,10 @@
 
 ### Conference Talks
 
-[Full Stack Angular with NestJS at STL DevFest](https://speakerdeck.com/adwiens/full-stack-angular-with-nestjs) (2019) &#10027; [Angular Drag-and-Drop at WindyCity DevFest](https://www.youtube.com/watch?v=UBbI6-QTdec) (2019) &#10027; [Angular Drag-and-Drop at STL DevFest](https://www.youtube.com/watch?v=JIqtgkKx7PE) (2019) &#10027; TensorFlow.js + Angular at COMO DevFest (2019)
+* [Full Stack Angular with NestJS at STL DevFest](https://speakerdeck.com/adwiens/full-stack-angular-with-nestjs) (2019)
+* [Angular Drag-and-Drop at WindyCity DevFest](https://www.youtube.com/watch?v=UBbI6-QTdec) (2019)
+* [Angular Drag-and-Drop at STL DevFest](https://www.youtube.com/watch?v=JIqtgkKx7PE) (2019)
+* TensorFlow.js + Angular at COMO DevFest (2019)
 
 Meetup Talks
 
