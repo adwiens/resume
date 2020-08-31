@@ -27,7 +27,7 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2017 – Present ] &nbsp;&nbsp; [Angular Boot Camp](http://angularbootcamp.com) &nbsp;&nbsp; *Instructor*
 
-* Taught 8 classes (3-4 9-to-5 days) as the primary instructor (2019-2020), and co-taught 8 classes (2017-2020).
+* Taught 8 classes (3-4x 9-to-5 days) as the primary instructor (2019-2020), and co-taught 8 classes (2017-2020).
 
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
 
