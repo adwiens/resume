@@ -1,12 +1,12 @@
 ## Drew Wiens – Platform UX Engineer
 
-[andywiens255@gmail.com](mailto:andywiens255@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; (314) 485-9194
+[drewwiens0@gmail.com](mailto:drewwiens0@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; (314) 485-9194
 
 ### Education
 
-* [PhD Computer Science at Cornell University](http://www.cs.cornell.edu/~andrew), 4.0 GPA, Incomplete. ([Main Project](https://github.com/adwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding))
-* MS Electrical & Computer Engineering at Georgia Tech, 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
-* BS Electrical & Computer Engineering at Washington University in St. Louis, 3.77 GPA, 2013.
+* [PhD Computer Science](http://www.cs.cornell.edu/~andrew) at [Cornell University](http://cornell.edu), 4.0 GPA, Unfinished. ([Main Project](https://github.com/adwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding))
+* MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
+* BS Electrical & Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
 
 ### Experience
 
