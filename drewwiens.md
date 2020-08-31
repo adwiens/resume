@@ -10,7 +10,7 @@
 
 ### Skills
 
-_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, CSS, [Cypress](https://www.cypress.io/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Protractor](https://www.protractortest.org/), Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), [TypeScript](https://www.typescriptlang.org/), Visual Studio Code, [Winston](https://www.npmjs.com/package/winston).
+_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, CSS, [Cypress](https://www.cypress.io/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Protractor](https://www.protractortest.org/), Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), [TypeScript](https://www.typescriptlang.org/), Visual Studio Code, [Winston](https://www.npmjs.com/package/winston), [yarn](https://classic.yarnpkg.com/lang/en/).
 
 ### Experience
 
@@ -37,7 +37,7 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 #### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
 * Created and merged 231 pull requests = 27% of all mainline commits (#2 committer by volume).
-* Built an enterprise Angular 6+ and Node 10+ web app start-to-finish, end-to-end.
+* Built a full stack enterprise Angular 6+ and Node 10+ web app start-to-finish and end-to-end with 1 other FTE.
   * Wrote Node/Express backend with RESTful HTTP API and Winston logging.
   * Wrote approx. half of all of the app's features.
   * Wrote an Angular 8+ version of a legacy 6 kLOC VisualC++ desktop app.
@@ -52,8 +52,12 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2017 – 2018 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
-* TODO
 * Created and merged 53 pull requests = 19% of all mainline commits (#3 committer by volume).
+* Built a full stack enterprise Angular 5+ and Node 8+ web app start-to-finish with 3 other FTE's.
+  * Big data front-end for several existing HTTP API's and a search engine.
+  * Wrote the app's backend, a RESTful HTTP API with Express.js and Node.js.
+  * Fixed front end bugs in the project's Angular code.
+  * Learned Angular, Node, npm, yarn, Express, and REST on the job.
 
 #### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu) &nbsp;&nbsp; *PhD Student*
 
