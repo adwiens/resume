@@ -22,7 +22,7 @@
 * Gave 5 talks at local Meetups.
 * Passed Google Cloud Platform (GCP) Professional Data Engineer exam on the first try (Nov 2019).
 
-#### [ 2017 – Present ] &nbsp;&nbsp; [Angular Boot Camp](http://angularbootcamp.com) &nbsp;&nbsp; *Corporate Training*
+#### [ 2017 – Present ] &nbsp;&nbsp; [Angular Boot Camp](http://angularbootcamp.com) &nbsp;&nbsp; *Instructor*
 
 * Taught eight 3-day and 4-day 9-to-5 classes as the primary instructor from 2019-2020.
 * Co-taught eight other Angular Boot Camp classes from 2017-2020.
@@ -52,6 +52,6 @@
 * [Angular Drag-and-Drop at STL DevFest](https://www.youtube.com/watch?v=JIqtgkKx7PE) (2019)
 * TensorFlow.js + Angular at COMO DevFest (2019)
 
-Meetup Talks
+#### Meetup Talks
 
 [GraphQL: What and Why](https://www.youtube.com/watch?v=uhY81zcT8ns) (2020) &#10027; [Machine Learning for Front End Features](https://www.youtube.com/watch?v=rGHF3D8YrD0) (2019) &#10027; [Angular Reactive Forms](https://www.youtube.com/watch?v=EduDRsy3GkI) (2019) &#10027; [Angular Drag-and-Drop](https://www.youtube.com/watch?v=jZZQHQLY51s) (2019) &#10027; [RESTful APIs with Loopback 3](https://www.youtube.com/watch?v=rpiv8SV-7tk) (2017)
