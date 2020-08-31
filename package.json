@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "github-markdown-css": "git://github.com/sindresorhus/github-markdown-css.git"
+  }
+}
