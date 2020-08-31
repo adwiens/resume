@@ -32,11 +32,11 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
 
 * Angular 8+, [Angular Material](http://material.angular.io) and [ngrx](http://ngrx.io) platform to unify the UI of a microservice-based medical system sold to hospitals.
-* Designed and built the front end platform with 1 other FTE and coordinated with teams in Sunnyvale, St. Louis, and the U.K.
-* Wrote a couple dozen wiki pages and README's to document how to develop on the platform.
-* Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD with Angular 9, [Locl](https://github.com/loclapp/locl) and [Angular cli](https://cli.angular.io/).
-* Sped up CI/CD by 4x (~16 mins → 4 mins) by rewriting Azure Pipelines YAML to parallelize the tasks.
-* Presented progress on the platform to corporate stakeholders.
+  * Designed and built the front end platform with 1 other FTE and coordinated with teams in Sunnyvale, St. Louis, and the U.K.
+  * Wrote a couple dozen wiki pages and README's to document how to develop on the platform.
+  * Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD with Angular 9, [Locl](https://github.com/loclapp/locl) and [Angular cli](https://cli.angular.io/).
+  * Sped up CI/CD by 4x (~16 mins → 4 mins) by rewriting Azure Pipelines YAML to parallelize the tasks.
+  * Presented progress on the platform to corporate stakeholders.
 
 #### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
@@ -67,12 +67,12 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 #### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu) &nbsp;&nbsp; *PhD Student*
 
 * Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships) at Georgia Tech.
-* Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
 * Best grade in ECE 6360 graduate electromagnetics design class taught by Dr. Madhavan Swaminathan (Spring 2014).
-* Published 5 journal papers (4 first-author and 4 [IEEE](http://www.ieee.org/) journals) and 6 conference papers (5 first-author).
-* Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergraduates).
-* Submitted US Patent application materials to Georgia Tech's patent office.
 * Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/) at Georgia Tech.
+  * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
+  * Published 5 journal papers (4 first-author and 4 [IEEE](http://www.ieee.org/) journals) and 6 conference papers (5 first-author).
+  * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergraduates).
+  * Submitted US Patent application materials to Georgia Tech's patent office.
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time during Grad School*
 
@@ -81,8 +81,8 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 #### [ 2011 – 2012 ] &nbsp;&nbsp; [Intel Corporation](http://intel.com) &nbsp;&nbsp; *2 Summer Internships*
 
 * Worked in Atom & SoC Development Group under Sean Baartmans at Jones Farm campus in Hillsboro, OR.
-* Wrote C# for software tools used by Intel and HP engineers for post-silicon validation of Intel Atom processors.
-* Gave two presentations to the business group, and created conference materials on my work.
+  * Wrote C# for software tools used by Intel and HP engineers for post-silicon validation of Intel Atom processors.
+  * Gave two presentations to the business group, and created conference materials on my work.
 
 ### Conference Talks
 
