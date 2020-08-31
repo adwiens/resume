@@ -10,7 +10,7 @@
 
 ### Skills
 
-_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular CLI](https://cli.angular.io/), [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, code review, CSS, [Cypress](https://www.cypress.io/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), [Locl](https://github.com/loclapp/locl), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Protractor](https://www.protractortest.org/), pull requests, Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), [TypeScript](https://www.typescriptlang.org/), Visual Studio Code, [Winston](https://www.npmjs.com/package/winston), [yarn](https://classic.yarnpkg.com/lang/en/).
+_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular CLI](https://cli.angular.io/), [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, code review, CSS, [Cypress](https://www.cypress.io/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), [Locl](https://github.com/loclapp/locl), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function), [Protractor](https://www.protractortest.org/), pull requests, Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), [TypeScript](https://www.typescriptlang.org/), Visual Studio Code, [Winston](https://www.npmjs.com/package/winston), [yarn](https://classic.yarnpkg.com/lang/en/).
 
 ### Experience
 
@@ -52,7 +52,8 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2018 ] &nbsp;&nbsp; [PricewaterhouseCoopers](http://pwc.com) &nbsp;&nbsp; *FTE*
 
-* TODO
+* Built Node microservices and an internal PwC Angular web app within a large international team that included Oasis.
+* Integrated microservices with a half dozen internal RESTful APIs by communicating with several backend teams.
 
 #### [ 2017 – 2018 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
