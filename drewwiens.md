@@ -10,7 +10,7 @@
 
 ### Skills
 
-_Alphabetized:_ &nbsp;&nbsp; Ag-Grid, Angular 2-10, Angular Material, Apollo Client and Server, Azure DevOps, Azure Pipelines, BitBucket, CSS, Cypress, Express.js, Git, GitHub Enterprise, Google Cloud Platform, GraphQL, HTML, Jasmine, JavaScript, Jenkins, Jest, Jira, Karma, Linux (Ubuntu 18.04 & 20.04 - Daily Driver), Matlab, Microsoft Teams, MongoDB, Nest.js, NgRx, Node.js, Nrwl Nx, Postgraphile, PostgreSQL, Protractor, Python, ReactJS, REST, RxJS, Server Sent Events, TypeScript, Visual Studio Code.
+_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, CSS, [Cypress](https://www.cypress.io/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Protractor](https://www.protractortest.org/), Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), TypeScript, Visual Studio Code, [Winston](https://www.npmjs.com/package/winston).
 
 ### Experience
 
@@ -31,12 +31,31 @@ _Alphabetized:_ &nbsp;&nbsp; Ag-Grid, Angular 2-10, Angular Material, Apollo Cli
 
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
 
-* TODO
+* Built a front end platform based on Angular 8+ to unify the UI of medical devices sold to hospitals.
+* Coordinated with engineering teams in Sunnyvale, St. Louis, and the U.K.
 
 #### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
 * TODO
 * Created and merged 231 pull requests = 27% of all mainline commits (#2 committer by volume).
+
+* Built an enterprise Angular 6+ and Node 10+ web app start-to-finish with 1 other FTE.
+- Wrote Node/Express backend with RESTful HTTP API and Winston logging.
+- Wrote ~ half of the app's front-end features
+- Converted a 6 kLOC VisualC++ desktop app into a modern Angular 8+ app.
+- Extended Bitbucket pipeline YAML & Bash build script.
+- Wrote Jasmine unit tests and Protractor end to end (e2e) tests.
+- Integrated Node/Express backend with Smalltalk HTTP + Server Sent Events server.
+- Coordinated API contract with the Smalltalk app with two onsite FTE's in Fremont, CA.
+- Onboarded two remote FTE's at project completion to maintain the app.
+- Trained two onsite Smalltalk FTE's for web development with Angular.
+
+Project Details:
+- Full stack Angular 6/7/8 & Node 10/12 single page web app (SPA) front end client for existing desktop app.
+- Kanban-style project management in Jira with 1 other FTE & 2 remote FTE's.
+- Learned Angular unit and end-to-end testing, Electron.js, Ag-Grid, Nrwl Nx monorepos, VirtualBox, Linux (Ubuntu 18.04)
+
+
 
 #### [ 2018 ] &nbsp;&nbsp; [PricewaterhouseCoopers](http://pwc.com) &nbsp;&nbsp; *FTE*
 
