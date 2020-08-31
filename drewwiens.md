@@ -10,7 +10,7 @@
 
 ### Skills
 
-_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, CSS, [Cypress](https://www.cypress.io/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Protractor](https://www.protractortest.org/), Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), [TypeScript](https://www.typescriptlang.org/), Visual Studio Code, [Winston](https://www.npmjs.com/package/winston), [yarn](https://classic.yarnpkg.com/lang/en/).
+_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular CLI](https://cli.angular.io/), [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, code review, CSS, [Cypress](https://www.cypress.io/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), [Locl](https://github.com/loclapp/locl), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Protractor](https://www.protractortest.org/), pull requests, Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), [TypeScript](https://www.typescriptlang.org/), Visual Studio Code, [Winston](https://www.npmjs.com/package/winston), [yarn](https://classic.yarnpkg.com/lang/en/).
 
 ### Experience
 
@@ -31,8 +31,12 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
 
-* Built a front end platform based on Angular 8+ to unify the UI of medical devices sold to hospitals.
-* Coordinated with engineering teams in Sunnyvale, St. Louis, and the U.K.
+* Angular 8+, [Angular Material](http://material.angular.io) and [ngrx](http://ngrx.io) platform to unify the UI of a microservice-based medical system sold to hospitals.
+* Designed and built the front end platform with 1 other FTE and coordinated with teams in Sunnyvale, St. Louis, and the U.K.
+* Wrote a couple dozen wiki pages and README's to document how to develop on the platform.
+* Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD with Angular 9, [Locl](https://github.com/loclapp/locl) and [Angular cli](https://cli.angular.io/).
+* Sped up CI/CD by 4x (~16 mins → 4 mins) by rewriting Azure Pipelines YAML to parallelize the tasks.
+* Presented progress on the platform to corporate stakeholders.
 
 #### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
@@ -72,7 +76,7 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time during Grad School*
 
-* Extended an existing ASP.NET application with new features and SQL queries.
+* Implemented new front end features in an existing ASP.NET + SQL Server application.
 
 #### [ 2011 – 2012 ] &nbsp;&nbsp; [Intel Corporation](http://intel.com) &nbsp;&nbsp; *2 Summer Internships*
 
