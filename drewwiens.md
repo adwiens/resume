@@ -74,7 +74,7 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
   * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergraduates).
   * Submitted US Patent application materials to Georgia Tech's patent office.
 
-#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time during Grad School*
+#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time while in Grad School*
 
 * Implemented new front end features in an existing ASP.NET + SQL Server application.
 
