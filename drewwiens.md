@@ -47,16 +47,13 @@
 
 #### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu) &nbsp;&nbsp; *PhD Student*
 
-* Earned Presidential Life Sciences Fellowship at Cornell and President's Scholarship at Georgia Tech.
+* Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships) at Georgia Tech.
 * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
 * Best grade in ECE 6360 electromagnetics class taught by Dr. Madhavan Swaminathan (Spring 2014).
 * Published 5 journal papers (4 first-author) and 6 conference papers (5 first-author).
-* Gave talks at 5 conferences (1 invited talk) and mentored 8 students (5 undergraduates).
-* Volunteered 30 hours at Atlanta Medical Center Level 1 Trauma Operating Room.
-* Elected Treasurer and Webmaster of IEEE Engineering in Medicine and Biology Society (EMBS) at Georgia Tech.
-* Submitted USPTO Provisional Patent: "Systems and Methods for Monitoring Central Heart Function from Peripherally Located Sensors".
-* Graduate Teaching Assistant of 2 courses (ECE2026 Digital Signal Processing & ECE3025B Electromagnetics) at Georgia Tech.
-* Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/) at Georgia Tech.
+* Presented 5 conference talks (1 invited talk), and mentored 8 students (5 undergraduates).
+* Submitted US Provisional Patent: "Systems and Methods for Monitoring Central Heart Function from Peripherally Located Sensors".
+* Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/) at Georgia Tech.
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Part-Time*
 
