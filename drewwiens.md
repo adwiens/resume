@@ -6,7 +6,6 @@
 
 * [PhD Computer Science](http://www.cs.cornell.edu/~andrew) at [Cornell University](http://cornell.edu), 4.0 GPA, Unfinished. ([Main Project](https://github.com/adwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding))
 * MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
-  * Published 4 first-author conference papers and 3 first-author journal papers.
 * BS Electrical & Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
 
 ### Experience
@@ -51,9 +50,9 @@
 * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
 * NSF Fellowship Honorable Mention (2015) at Georgia Tech.
 * Best grade in ECE 6360 graduate electromagnetics design class taught by Dr. Madhavan Swaminathan (Spring 2014).
-* Published 5 journal papers (4 first-author) and 6 conference papers (5 first-author).
-* Presented 5 conference talks (1 invited talk), and mentored 8 students (5 undergraduates).
-* Submitted US Provisional Patent: "Systems and Methods for Monitoring Central Heart Function from Peripherally Located Sensors".
+* Published 5 journal papers (4 first-author and 4 [IEEE](http://www.ieee.org/) journals) and 6 conference papers (5 first-author).
+* Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergraduates).
+* Submitted US Patent application materials to Georgia Tech's patent office.
 * Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/) at Georgia Tech.
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Part-Time*
