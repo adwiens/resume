@@ -55,9 +55,8 @@
 * Submitted US Patent application materials to Georgia Tech's patent office.
 * Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/) at Georgia Tech.
 
-#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Part-Time*
+#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time during Grad School*
 
-* Worked remotely during graduate school at Georgia Tech.
 * Extended an existing ASP.NET application with new features and SQL queries.
 
 #### [ 2011 – 2012 ] &nbsp;&nbsp; [Intel Corporation](http://intel.com) &nbsp;&nbsp; *2 Summer Internships*
