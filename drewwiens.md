@@ -49,7 +49,7 @@
 
 * Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships) at Georgia Tech.
 * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
-* Best grade in ECE 6360 electromagnetics class taught by Dr. Madhavan Swaminathan (Spring 2014).
+* Best grade in ECE 6360 graduate electromagnetics design class taught by Dr. Madhavan Swaminathan (Spring 2014).
 * Published 5 journal papers (4 first-author) and 6 conference papers (5 first-author).
 * Presented 5 conference talks (1 invited talk), and mentored 8 students (5 undergraduates).
 * Submitted US Provisional Patent: "Systems and Methods for Monitoring Central Heart Function from Peripherally Located Sensors".
