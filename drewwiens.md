@@ -8,41 +8,44 @@
 * MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
 * BS Electrical & Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
 
+### Skills
+
+_Alphabetized:_ &nbsp;&nbsp; Ag-Grid, Angular 2-10, Angular Material, Apollo Client and Server, Azure DevOps, Azure Pipelines, BitBucket, CSS, Cypress, Express.js, Git, GitHub Enterprise, Google Cloud Platform, GraphQL, HTML, Jasmine, JavaScript, Jenkins, Jest, Jira, Karma, Linux (Ubuntu 18.04 & 20.04 - Daily Driver), Matlab, Microsoft Teams, MongoDB, Nest.js, NgRx, Node.js, Nrwl Nx, Postgraphile, PostgreSQL, Protractor, Python, ReactJS, REST, RxJS, Server Sent Events, TypeScript, Visual Studio Code.
+
 ### Experience
 
 #### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
-* Angular 9-10, Angular Material, Nrwl Nx, Node.js, Nest.js, RxJS, Jasmine, Karma, Cypress.io, PostgreSQL, GraphQL, MS Teams, Jira, Bitbucket.
+* TODO
 
 #### [ 2017 – Present ] &nbsp;&nbsp; [Oasis Digital Solutions](http://oasis.digital) &nbsp;&nbsp; *Full-Time*
 
-* Angular 2-10, TypeScript, Angular Material, Node.js, Express.js, Nest.js, Loopback 3, Nrwl Nx, Bazel, Google Cloud Platform, MongoDB, PostgreSQL, GraphQL, and Linux (Daily-driver is Ubuntu 20.04)
+* TODO
 * Completed 5 Angular and Node.js projects for 2 Fortune 500 companies and 1 corporate client in 3 industries.
 * Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago, and 5 talks at local Meetups.
-* Passed Google Cloud Platform (GCP) Professional Data Engineer exam on the first try (Nov 2019).
+* Passed Google Cloud Platform (GCP) Professional Data Engineer exam on first attempt (Nov 2019).
 
 #### [ 2017 – Present ] &nbsp;&nbsp; [Angular Boot Camp](http://angularbootcamp.com) &nbsp;&nbsp; *Instructor*
 
-* Taught eight 3-day and 4-day 9-to-5 classes as the primary instructor from 2019-2020.
-* Co-taught eight other Angular Boot Camp classes from 2017-2020.
+* Taught 8 classes (3-4 9-to-5 days) as the primary instructor (2019-2020), and co-taught 8 classes (2017-2020).
 
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
 
-* Angular 8-9, Node.js, Express.js, Jasmine, Karma, Protractor, RxJS, Nrwl Nx, Azure DevOps, Angular Material, MS Teams, Azure Pipelines.
+* TODO
 
 #### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
-* Angular 6-8, Angular Material, RxJS, Ag-Grid, ngrx store & effects, Server-Sent Events, Jasmine, Karma, Protractor, Node.js, Express.js, Nrwl Nx, Jira, MS Teams, Bitbucket, Bitbucket Pipelines.
-* Merged 231 commits = 27% of all commits on develop branch, #2 committer by volume.
+* TODO
+* Created and merged 231 pull requests = 27% of all mainline commits (#2 committer by volume).
 
 #### [ 2018 ] &nbsp;&nbsp; [PricewaterhouseCoopers](http://pwc.com) &nbsp;&nbsp; *FTE*
 
-* Angular 6-7, RxJS, Node.js, Express.js, Loopback.io v3, MongoDB, Azure Cosmos DB, Jenkins, VSTS, GitHub Enterprise.
+* TODO
 
 #### [ 2017 – 2018 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
-* Angular 5, Angular Material, RxJS, Node.js, Express.js, Loopback.io v3, Windows 10, Jira, ngrx store, Bitbucket, Apache Solr, PostgreSQL.
-* Merged 53 commits = 19% of all commits on develop branch, #3 committer by volume.
+* TODO
+* Created and merged 53 pull requests = 19% of all mainline commits (#3 committer by volume).
 
 #### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu) &nbsp;&nbsp; *PhD Student*
 
