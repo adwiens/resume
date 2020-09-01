@@ -32,11 +32,11 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
 
 * Angular 8+, [Angular Material](http://material.angular.io) and [ngrx](http://ngrx.io) platform to unify the UI of a microservice-based medical system sold to hospitals.
-  * Designed and built the front end platform with 1 other FTE and coordinated with teams in Sunnyvale, St. Louis, and the U.K.
+  * Designed and built the front end platform with 1 other FTE from the start.
+  * Presented progress to corporate stakeholders and coordinated with teams in Sunnyvale, St. Louis, and the U.K.
   * Wrote a couple dozen wiki pages and README's to document how to develop on the platform.
   * Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD with Angular 9, [Locl](https://github.com/loclapp/locl) and [Angular cli](https://cli.angular.io/).
   * Sped up CI/CD by 4x (~16 mins → 4 mins) by rewriting Azure Pipelines YAML to parallelize the tasks.
-  * Presented progress on the platform to corporate stakeholders.
 
 #### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
