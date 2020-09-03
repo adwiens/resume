@@ -4,7 +4,7 @@
 
 ### Education
 
-* [PhD Computer Science](http://www.cs.cornell.edu/~andrew) at [Cornell University](http://cornell.edu), 4.0 GPA, Unfinished. ([Main Project](https://github.com/adwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding))
+* [PhD Computer Science](http://www.cs.cornell.edu/~andrew) at [Cornell University](http://cornell.edu), 4.0 GPA, Left. ([Main Project](https://github.com/adwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding))
 * MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
 * BS Electrical & Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
 
@@ -16,18 +16,21 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
 
-* TODO
+* Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/) with custom plugins.
+* Created the most complex page of the application: A visual table filtered on the backend by a variable number of Angular Reactive Forms inputs, and the GraphQL API that drives the frontend, including automatic client TypeScript code generation with `graphql-codegen`.
+* Code reviews of other developers' pull requests.
+* Wrote documentation on how to use the GraphQL API.
 
 #### [ 2017 – Present ] &nbsp;&nbsp; [Oasis Digital Solutions](http://oasis.digital) &nbsp;&nbsp; *Full-Time*
 
-* TODO
 * Completed 5 Angular and Node.js projects for 2 Fortune 500 companies and 1 corporate client in 3 industries.
 * Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago, and 5 talks at local Meetups.
 * Passed Google Cloud Platform (GCP) Professional Data Engineer exam on first attempt (Nov 2019).
 
 #### [ 2017 – Present ] &nbsp;&nbsp; [Angular Boot Camp](http://angularbootcamp.com) &nbsp;&nbsp; *Instructor*
 
-* Taught 8 classes (3-4x 9-to-5 days) as the primary instructor (2019-2020), and co-taught 8 classes (2017-2020).
+* Taught eight 3-day and 4-day 9-to-5 classes as the primary instructor from 2019-2020.
+* Co-taught eight other Angular Boot Camp classes from 2017-2020.
 
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
 
