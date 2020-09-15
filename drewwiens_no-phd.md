@@ -15,7 +15,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE via Oasis*
 
-* Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/) with custom plugins.
+* Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/).
 * Created the most complex page of the application: A visual table filtered on the backend by a variable number of Angular Reactive Forms inputs, and the GraphQL API that drives the frontend, including automatic client TypeScript code generation with `graphql-codegen`.
 * Code reviews of other developers' pull requests.
 * Wrote documentation on how to use the GraphQL API.
@@ -38,7 +38,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 #### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE via Oasis*
 
 * Created and merged 231 pull requests = 27% of all mainline commits (#2 committer by volume).
-* Built a full stack Angular 6+ and Node 10+ web app start-to-finish and end-to-end with another FTE.
+* Built a full stack Angular 6+ and Node 10+ web app start-to-finish and end-to-end w/ 1 other FTE
   * Wrote Node/Express backend with RESTful HTTP API and Winston logging.
   * Wrote half of all of the app's features.
   * Converted a legacy 6 kLOC VisualC++ desktop app to Angular 8.
@@ -63,12 +63,13 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu) &nbsp;&nbsp; *PhD Student*
 
-* Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships) at Georgia Tech.
-* Best grade in ECE 6360 graduate electromagnetics design class taught by Dr. Madhavan Swaminathan (Spring 2014).
-* Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/) at Georgia Tech.
+* Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships).
+* Best grade in Dr. Madhavan Swaminathan's ECE 6360 (grad. electromagnetics design) (SP2014).
+* Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/).
   * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
-  * Published 5 journal papers (4 first-author and 4 [IEEE](http://www.ieee.org/) journals) and 6 conference papers (5 first-author).
-  * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergraduates).
+  * Published 5 journal papers (4 first-author papers & 4 [IEEE](http://www.ieee.org/) journals)
+  * Published 6 conference papers (5 first-author).
+  * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergrads).
   * Submitted US Patent application materials to Georgia Tech's patent office.
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time During Grad School*
