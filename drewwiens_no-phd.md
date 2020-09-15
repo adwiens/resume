@@ -2,7 +2,7 @@
 
 [drewwiens0@gmail.com](mailto:drewwiens0@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; 314-610-9194
 
-Full Stack Developer with 3.5 years of experience in Angular + Node while working at [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com) thru [Oasis](http://oasis.digital).
+**Full Stack Developer with 3.5 years of experience in Angular + Node while working at [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com) thru [Oasis](http://oasis.digital).**
 
 ### Education
 
