@@ -69,7 +69,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 * Best grade in Dr. Madhavan Swaminathan's ECE 6360 (graduate EM design) (Spr 2014).
 * Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Lab](https://irl.gatech.edu/).
   * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
-  * Published 5 journal papers (4 first-author papers & 4 [IEEE](http://www.ieee.org/) journals)
+  * [Published 5 journal papers](https://scholar.google.com/citations?user=_N2X7KwAAAAJ) (4 first-author papers & 4 [IEEE](http://www.ieee.org/) journals)
   * Published 6 conference papers (5 first-author).
   * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergrads).
   * Submitted US Patent application materials to Georgia Tech's patent office.
