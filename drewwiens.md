@@ -1,64 +1,60 @@
 ## Drew Wiens – Platform UX Engineer
 
-[drewwiens0@gmail.com](mailto:drewwiens0@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; (314) 485-9194
+[drewwiens0@gmail.com](mailto:drewwiens0@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; 314-610-9194
+
+**Full Stack Developer with 3.5 years of experience in Angular + Node while working at [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com) thru [Oasis](http://oasis.digital).**
 
 ### Education
 
-* [PhD Computer Science](http://www.cs.cornell.edu/~andrew) at [Cornell University](http://cornell.edu), 4.0 GPA, Left. ([Main Project](https://github.com/adwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding))
 * MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
 * BS Electrical & Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
 
 ### Skills
 
-_Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, [Angular CLI](https://cli.angular.io/), [Angular Material](https://material.angular.io/), [Apollo Client + Server + Federation](https://www.apollographql.com/), Azure DevOps, Azure Pipelines, BitBucket, code review, CSS, [Cypress](https://www.cypress.io/), [Electron](https://www.electronjs.org/), [Express.js](https://expressjs.com/), Git, GitHub Enterprise, Google Cloud Platform, [GraphQL](https://graphql.org/), HTML, [Jasmine](https://jasmine.github.io/), JavaScript, [Jenkins](https://www.jenkins.io/), [Jest](https://jestjs.io/), Jira, [Karma](https://karma-runner.github.io/), Linux (Ubuntu 18.04 & 20.04 - Daily Driver), [Locl](https://github.com/loclapp/locl), Matlab, Microsoft Teams, MongoDB, [Nest.js](https://nestjs.com/), [NgRx](https://ngrx.io/), Node.js, [npm](https://docs.npmjs.com/cli/npm), [Nrwl Nx](https://nx.dev/), [Postgraphile](https://www.graphile.org/postgraphile/), PostgreSQL, [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function), [Protractor](https://www.protractortest.org/), pull requests, Python, ReactJS, REST, [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview), [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events), [TypeScript](https://www.typescriptlang.org/), Visual Studio Code, [Winston](https://www.npmjs.com/package/winston), [yarn](https://classic.yarnpkg.com/lang/en/).
+_Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://www.ag-grid.com/)**, Agile Development, **Angular 2-10**, **[Angular CLI](https://cli.angular.io/)**, **[Angular Material](https://material.angular.io/)**, **Angular Material CDK**, [Apollo Client + Server + Federation](https://www.apollographql.com/), **[Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)**, Azure DevOps, **Azure Pipelines**, Bash, BitBucket, CI/CD, **Code Review**, **CSS**, [Cypress](https://www.cypress.io/), Docker, **[Electron.js](https://www.electronjs.org/)**, [Express.js](https://expressjs.com/), Figma, **Git**, GitHub Enterprise, Google Cloud Platform (GCP), [GraphQL](https://graphql.org/), **HTML**, **HTML5**, **HTTP Requests**, **[Jasmine](https://jasmine.github.io/)**, **JavaScript**, [Jenkins](https://www.jenkins.io/), **[Jest](https://jestjs.io/)**, Jira, **[Karma](https://karma-runner.github.io/)**, Linux (Ubuntu 18.04 & 20.04 - Daily Driver), **[Locl](https://github.com/loclapp/locl)**, Matlab, Microsoft Teams, MongoDB, MySQL, **[Nest.js](https://nestjs.com/)**, **[NgRx](https://ngrx.io/)**, **Node.js**, **[npm](https://docs.npmjs.com/cli/npm)**, **npm scripts**, **[Nrwl Nx](https://nx.dev/)**, OpenID Connect, **[Postgraphile](https://www.graphile.org/postgraphile/)**, **PostgreSQL**, **[Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)**, [Protractor](https://www.protractortest.org/), **Pull Requests**, Python, [ReactJS](http://react.com), Responsive Web Design, **REST**, **[RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)**, **SCSS**, **Semantic Versioning (SemVer)**, **[Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)**, **Technical Documentation**, **[TypeScript](https://www.typescriptlang.org/)**, VirtualBox, **Visual Studio Code**, Web Sockets, [Winston](https://www.npmjs.com/package/winston), **[yarn](https://classic.yarnpkg.com/lang/en/)**.
 
 ### Experience
 
-#### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
+#### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE via Oasis*
 
-* Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/) with custom plugins.
+* Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/).
 * Created the most complex page of the application: A visual table filtered on the backend by a variable number of Angular Reactive Forms inputs, and the GraphQL API that drives the frontend, including automatic client TypeScript code generation with `graphql-codegen`.
 * Code reviews of other developers' pull requests.
 * Wrote documentation on how to use the GraphQL API.
 
 #### [ 2017 – Present ] &nbsp;&nbsp; [Oasis Digital Solutions](http://oasis.digital) &nbsp;&nbsp; *Full-Time*
 
-* Completed 5 Angular and Node.js projects for 2 Fortune 500 companies and 1 corporate client in 3 industries.
-* Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago, and 5 talks at local Meetups.
-* Passed Google Cloud Platform (GCP) Professional Data Engineer exam on first attempt (Nov 2019).
+* Completed 5 Angular + Node projects for 2 Fortune 500 corps. and 2 corp. clients in 3 industries.
+* Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago, and 5 talks at Meetups.
+* Passed Google Cloud Platform Professional Data Engineer exam on first attempt (Nov 2019).
 
-#### [ 2017 – Present ] &nbsp;&nbsp; [Angular Boot Camp](http://angularbootcamp.com) &nbsp;&nbsp; *Instructor*
-
-* Taught eight 3-day and 4-day 9-to-5 classes as the primary instructor from 2019-2020.
-* Co-taught eight other Angular Boot Camp classes from 2017-2020.
-
-#### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE*
+#### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *FTE via Oasis*
 
 * Angular 8+, [Angular Material](http://material.angular.io) and [ngrx](http://ngrx.io) platform to unify the UI of a microservice-based medical system sold to hospitals.
   * Designed and built the front end platform with 1 other FTE from the start.
-  * Presented progress to corporate stakeholders and coordinated with teams in Sunnyvale, St. Louis, and the U.K.
-  * Wrote a couple dozen wiki pages and README's to document how to develop on the platform.
-  * Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD with Angular 9, [Angular cli](https://cli.angular.io/), and [Locl](https://github.com/loclapp/locl).
-  * Sped up CI/CD by 4x (~16 mins → 4 mins) by rewriting Azure Pipelines YAML to parallelize the tasks.
+  * Presented progress to corporate stakeholders and coordinated with teams in 3 cities.
+  * Wrote a couple dozen wiki pages and README's to document how to develop on platform.
+  * Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD pipeline with Angular 9, [Angular cli](https://cli.angular.io/), and [Locl](https://github.com/loclapp/locl).
+  * Sped up CI/CD 4x (16 mins → 4 mins) by parallelizing Azure Pipelines YAML tasks.
 
-#### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
+#### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE via Oasis*
 
 * Created and merged 231 pull requests = 27% of all mainline commits (#2 committer by volume).
-* Built a full stack enterprise Angular 6+ and Node 10+ web app start-to-finish and end-to-end with 1 other FTE.
+* Built a full stack Angular 6+ and Node 10+ web app start-to-finish and end-to-end w/ 1 other FTE
   * Wrote Node/Express backend with RESTful HTTP API and Winston logging.
-  * Wrote approx. half of all of the app's features.
-  * Wrote an Angular 8+ version of a legacy 6 kLOC VisualC++ desktop app.
-  * Extended Bitbucket pipeline YAML & Bash build script.
+  * Wrote half of all of the app's features.
+  * Converted a legacy 6 kLOC VisualC++ desktop app to Angular 8.
+  * Wrote Bitbucket pipeline YAML & Bash build script.
   * Wrote Jasmine unit tests and Protractor end to end (e2e) tests.
   * Integrated Node/Express backend with Smalltalk HTTP + Server Sent Events server.
-  * Coordinated API contract with two onsite FTE's in Fremont, CA.
+  * Coordinated API contract with 2 onsite engineers in Fremont, CA.
 
-#### [ 2018 ] &nbsp;&nbsp; [PricewaterhouseCoopers](http://pwc.com) &nbsp;&nbsp; *FTE*
+#### [ 2018 ] &nbsp;&nbsp; [PricewaterhouseCoopers](http://pwc.com) &nbsp;&nbsp; *FTE via Oasis*
 
-* Built Node microservices and an internal PwC Angular web app within a large international team that included Oasis.
-* Integrated microservices with a half dozen internal RESTful APIs by communicating with several backend teams.
+* Wrote Node microservices and Angular web app within a large int'l team including Oasis.
+* Integrated microservices with ~1/2 dozen RESTful APIs by working with several backend teams.
 
-#### [ 2017 – 2018 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE*
+#### [ 2017 – 2018 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *FTE via Oasis*
 
 * Created and merged 53 pull requests = 19% of all mainline commits (#3 committer by volume).
 * Built a full stack enterprise Angular 5+ and Node 8+ web app start-to-finish with 3 other FTE's.
@@ -69,12 +65,13 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu) &nbsp;&nbsp; *PhD Student*
 
-* Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships) at Georgia Tech.
-* Best grade in ECE 6360 graduate electromagnetics design class taught by Dr. Madhavan Swaminathan (Spring 2014).
-* Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/) at Georgia Tech.
+* Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships).
+* Best grade in Dr. Madhavan Swaminathan's ECE 6360 (grad. electromagnetics design) (SP2014).
+* Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Lab](https://irl.gatech.edu/).
   * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
-  * Published 5 journal papers (4 first-author and 4 [IEEE](http://www.ieee.org/) journals) and 6 conference papers (5 first-author).
-  * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergraduates).
+  * Published 5 journal papers (4 first-author papers & 4 [IEEE](http://www.ieee.org/) journals)
+  * Published 6 conference papers (5 first-author).
+  * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergrads).
   * Submitted US Patent application materials to Georgia Tech's patent office.
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time During Grad School*
@@ -83,9 +80,9 @@ _Alphabetized:_ &nbsp;&nbsp; [Ag-Grid](https://www.ag-grid.com/), Angular 2-10, 
 
 #### [ 2011 – 2012 ] &nbsp;&nbsp; [Intel Corporation](http://intel.com) &nbsp;&nbsp; *2 Summer Internships*
 
-* Worked in Atom & SoC Development Group under Sean Baartmans at Jones Farm campus in Hillsboro, OR.
-  * Wrote C# for software tools used by Intel and HP engineers for post-silicon validation of Intel Atom processors.
-  * Gave two presentations to the business group, and created conference materials on my work.
+* Worked in Atom & SoC Dev. Group under Sean Baartmans at Jones Farm campus (Hillsboro, OR)
+  * Improved a C# tool for Intel and HP post-silicon validation engineers.
+  * Gave 2 presentations to the business group & created conference materials.
 
 ### Conference Talks
 
