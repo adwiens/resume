@@ -2,6 +2,8 @@
 
 [drewwiens0@gmail.com](mailto:drewwiens0@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; 314-610-9194
 
+Full Stack Developer with 3.5 years of experience in Angular + Node while working at [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com) thru [Oasis](http://oasis.digital).
+
 ### Education
 
 * MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
@@ -9,7 +11,7 @@
 
 ### Skills
 
-_Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://www.ag-grid.com/)**, Agile Development, **Angular 2-10**, **[Angular CLI](https://cli.angular.io/)**, **[Angular Material](https://material.angular.io/)**, **Angular Material CDK**, [Apollo Client + Server + Federation](https://www.apollographql.com/), **[Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)**, Azure DevOps, **Azure Pipelines**, Bash, BitBucket, CI/CD, **Code Review**, **CSS**, [Cypress](https://www.cypress.io/), Docker, **[Electron.js](https://www.electronjs.org/)**, [Express.js](https://expressjs.com/), Figma, **Git**, GitHub Enterprise, Google Cloud Platform (GCP), [GraphQL](https://graphql.org/), **HTML**, **HTML5**, **HTTP Requests**, **[Jasmine](https://jasmine.github.io/)**, **JavaScript**, [Jenkins](https://www.jenkins.io/), **[Jest](https://jestjs.io/)**, Jira, **[Karma](https://karma-runner.github.io/)**, Linux (Ubuntu 18.04 & 20.04 - Daily Driver), **[Locl](https://github.com/loclapp/locl)**, Matlab, Microsoft Teams, MongoDB, MySQL, **[Nest.js](https://nestjs.com/)**, **[NgRx](https://ngrx.io/)**, **Node.js**, **[npm](https://docs.npmjs.com/cli/npm)**, **npm scripts**, **[Nrwl Nx](https://nx.dev/)**, OpenID Connect, **[Postgraphile](https://www.graphile.org/postgraphile/)**, **PostgreSQL**, **[Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)**, [Protractor](https://www.protractortest.org/), **Pull Requests**, Python, [ReactJS](http://react.com), **REST**, **[RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)**, **SCSS**, **Semantic Versioning (SemVer)**, **[Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)**, **Technical Documentation**, **[TypeScript](https://www.typescriptlang.org/)**, VirtualBox, **Visual Studio Code**, Web Sockets, [Winston](https://www.npmjs.com/package/winston), **[yarn](https://classic.yarnpkg.com/lang/en/)**.
+_Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://www.ag-grid.com/)**, Agile Development, **Angular 2-10**, **[Angular CLI](https://cli.angular.io/)**, **[Angular Material](https://material.angular.io/)**, **Angular Material CDK**, [Apollo Client + Server + Federation](https://www.apollographql.com/), **[Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)**, Azure DevOps, **Azure Pipelines**, Bash, BitBucket, CI/CD, **Code Review**, **CSS**, [Cypress](https://www.cypress.io/), Docker, **[Electron.js](https://www.electronjs.org/)**, [Express.js](https://expressjs.com/), Figma, **Git**, GitHub Enterprise, Google Cloud Platform (GCP), [GraphQL](https://graphql.org/), **HTML**, **HTML5**, **HTTP Requests**, **[Jasmine](https://jasmine.github.io/)**, **JavaScript**, [Jenkins](https://www.jenkins.io/), **[Jest](https://jestjs.io/)**, Jira, **[Karma](https://karma-runner.github.io/)**, Linux (Ubuntu 18.04 & 20.04 - Daily Driver), **[Locl](https://github.com/loclapp/locl)**, Matlab, Microsoft Teams, MongoDB, MySQL, **[Nest.js](https://nestjs.com/)**, **[NgRx](https://ngrx.io/)**, **Node.js**, **[npm](https://docs.npmjs.com/cli/npm)**, **npm scripts**, **[Nrwl Nx](https://nx.dev/)**, OpenID Connect, **[Postgraphile](https://www.graphile.org/postgraphile/)**, **PostgreSQL**, **[Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)**, [Protractor](https://www.protractortest.org/), **Pull Requests**, Python, [ReactJS](http://react.com), Responsive Web Design, **REST**, **[RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)**, **SCSS**, **Semantic Versioning (SemVer)**, **[Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)**, **Technical Documentation**, **[TypeScript](https://www.typescriptlang.org/)**, VirtualBox, **Visual Studio Code**, Web Sockets, [Winston](https://www.npmjs.com/package/winston), **[yarn](https://classic.yarnpkg.com/lang/en/)**.
 
 ### Experience
 
@@ -22,7 +24,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### [ 2017 – Present ] &nbsp;&nbsp; [Oasis Digital Solutions](http://oasis.digital) &nbsp;&nbsp; *Full-Time*
 
-* Completed 5 Angular + Node projects for 2 Fortune 500 corps. and 1 corp. client in 3 industries.
+* Completed 5 Angular + Node projects for 2 Fortune 500 corps. and 2 corp. clients in 3 industries.
 * Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago, and 5 talks at Meetups.
 * Passed Google Cloud Platform Professional Data Engineer exam on first attempt (Nov 2019).
 
@@ -65,7 +67,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 * Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships).
 * Best grade in Dr. Madhavan Swaminathan's ECE 6360 (grad. electromagnetics design) (SP2014).
-* Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Research Lab](https://irl.gatech.edu/).
+* Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Lab](https://irl.gatech.edu/).
   * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
   * Published 5 journal papers (4 first-author papers & 4 [IEEE](http://www.ieee.org/) journals)
   * Published 6 conference papers (5 first-author).
