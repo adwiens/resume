@@ -63,10 +63,10 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * Fixed front end bugs in the project's Angular code.
   * Learned Angular, Node, npm, yarn, Express, and REST on the job.
 
-#### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu) &nbsp;&nbsp; *PhD Student*
+#### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) &nbsp;&nbsp; *PhD Student*
 
 * Earned [Presidential Life Sciences Fellowship](https://gradschool.cornell.edu/financial-support/fellowships/presidential-life-science-fellowship/) at Cornell and [President's Scholarship](http://www.gradadmiss.gatech.edu/presidents-fellowships).
-* Best grade in Dr. Madhavan Swaminathan's ECE 6360 (grad. electromagnetics design) (SP2014).
+* Best grade in Dr. Madhavan Swaminathan's ECE 6360 (graduate EM design) (Spr 2014).
 * Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Lab](https://irl.gatech.edu/).
   * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
   * Published 5 journal papers (4 first-author papers & 4 [IEEE](http://www.ieee.org/) journals)
@@ -76,13 +76,13 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time During Grad School*
 
-* Implemented new front end features in an existing ASP.NET + SQL Server application.
+* Added front end features & fixed bugs in existing ASP.NET + SQL Server web app.
 
 #### [ 2011 – 2012 ] &nbsp;&nbsp; [Intel Corporation](http://intel.com) &nbsp;&nbsp; *2 Summer Internships*
 
-* Worked in Atom & SoC Dev. Group under Sean Baartmans at Jones Farm campus (Hillsboro, OR)
-  * Improved a C# tool for Intel and HP post-silicon validation engineers.
-  * Gave 2 presentations to the business group & created conference materials.
+* Worked for Sean Baartmans in Atom & SoC Dev. Group (Jones Farm 5, Hillsboro, OR)
+  * Added features to C# WPF tool for Intel and HP post-silicon validation engineers.
+  * Gave 2 presentations to the business group & created materials for a conference.
 
 ### Conference Talks
 
