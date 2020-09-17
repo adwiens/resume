@@ -17,7 +17,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Full Stack Engineer via Oasis*
 
-* Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/).
+* Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [NgRx](https://ngrx.io/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/).
 * Created the most complex page of the application: A visual table filtered on the backend by a variable number of Angular Reactive Forms inputs, and the GraphQL API that drives the frontend, including automatic client TypeScript code generation with `graphql-codegen`.
 * Code reviews of other developers' pull requests.
 * Wrote documentation on how to use the GraphQL API.
