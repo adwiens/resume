@@ -63,7 +63,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * Fixed front end bugs in the project's Angular code.
   * Learned Angular, Node, npm, yarn, Express, and REST on the job.
 
-#### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) &nbsp;&nbsp; *Computer Engineering PhD Student*
+#### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) &nbsp;&nbsp; *PhD Student*
 
 * Georgia Tech [President's Scholar](http://www.gradadmiss.gatech.edu/presidents-fellowships).
 * Best grade in Dr. Madhavan Swaminathan's ECE 6360 (graduate EM design) (Spr 2014).
