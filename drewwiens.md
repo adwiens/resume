@@ -6,8 +6,8 @@
 
 ### Education
 
-* MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
-* BS Electrical & Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
+* MS Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
+* BS Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
 
 ### Skills
 
@@ -63,7 +63,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * Fixed front end bugs in the project's Angular code.
   * Learned Angular, Node, npm, yarn, Express, and REST on the job.
 
-#### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) &nbsp;&nbsp; *PhD Student*
+#### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) &nbsp;&nbsp; *Computer Engineering PhD Student*
 
 * Georgia Tech [President's Scholar](http://www.gradadmiss.gatech.edu/presidents-fellowships).
 * Best grade in Dr. Madhavan Swaminathan's ECE 6360 (graduate EM design) (Spr 2014).
