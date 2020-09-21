@@ -28,7 +28,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 * Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago, and 5 talks at Meetups.
 * Passed Google Cloud Platform Professional Data Engineer exam on first attempt (Nov 2019).
 
-#### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *Full Stack Engineer via Oasis*
+#### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *Frontend Engineer via Oasis*
 
 * Angular 8+, [Angular Material](http://material.angular.io) and [ngrx](http://ngrx.io) platform to unify the UI of a microservice-based medical system sold to hospitals.
   * Designed and built the front end platform with 1 other FTE from the start.
@@ -37,7 +37,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD pipeline with Angular 9, [Angular cli](https://cli.angular.io/), and [Locl](https://github.com/loclapp/locl).
   * Sped up CI/CD 4x (16 mins → 4 mins) by parallelizing Azure Pipelines YAML tasks.
 
-#### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Full Stack Engineer via Oasis*
+#### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Frontend Engineer via Oasis*
 
 * Created and merged 231 pull requests = 27% of all mainline commits (#2 committer by volume).
 * Built a full stack Angular 6+ and Node 10+ web app start-to-finish and end-to-end w/ 1 other FTE
@@ -74,9 +74,10 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergrads).
   * Submitted US Patent application materials to Georgia Tech's patent office.
 
-#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Part-Time During Grad School*
+#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Software Engineer*
 
 * Added front end features & fixed bugs in existing ASP.NET + SQL Server web app.
+* Worked remotely during grad school.
 
 #### [ 2011 – 2012 ] &nbsp;&nbsp; [Intel Corporation](http://intel.com) &nbsp;&nbsp; *2 Summer Internships*
 
