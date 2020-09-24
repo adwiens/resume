@@ -65,7 +65,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### [ 2013 – 2017 ] &nbsp;&nbsp; [Georgia Tech](http://gatech.edu) and [Cornell University](http://cornell.edu/) &nbsp;&nbsp; *PhD Student*
 
-* Georgia Tech [President's Scholar](http://www.gradadmiss.gatech.edu/presidents-fellowships).
+* Georgia Tech [President's Scholar](http://www.gradadmiss.gatech.edu/presidents-fellowships) (Top 10% of PhD applicants).
 * Best grade in Dr. Madhavan Swaminathan's ECE 6360 (graduate EM design) (Spr 2014).
 * Graduate Teaching Assistant for 2 courses and Graduate Research Assistant in [Inan Lab](https://irl.gatech.edu/).
   * Won a $50,000 Grant by Children's Healthcare of Atlanta to study joint sounds as biomarkers for juvenile inflammatory diseases.
