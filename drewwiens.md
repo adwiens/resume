@@ -31,6 +31,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 #### [ 2019 – 2020 ] &nbsp;&nbsp; [Elekta](http://elekta.com) &nbsp;&nbsp; *Platform UX Engineer via Oasis*
 
 * Angular 8+, [Angular Material](http://material.angular.io) and [ngrx](http://ngrx.io) platform to unify the UI of a microservice-based medical system sold to hospitals.
+  * Worked on-site at Elekta St. Charles, MO for an Elekta lead UX engineer based in Sunnyvale, CA.
   * Designed and built the front end platform with 1 other FTE from the start.
   * Presented progress to corporate stakeholders and coordinated with teams in 3 cities.
   * Wrote a couple dozen wiki pages and README's to document how to develop on platform.
@@ -74,10 +75,9 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergrads).
   * Submitted US Patent application materials to Georgia Tech's patent office.
 
-#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Software Engineer*
+#### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Software Engineer*
 
-* Added front end features & fixed bugs in existing ASP.NET + SQL Server web app.
-* Worked remotely during grad school.
+* Added front end features & fixed bugs in existing ASP.NET + SQL Server web app remotely during grad school.
 
 #### [ 2011 – 2012 ] &nbsp;&nbsp; [Intel Corporation](http://intel.com) &nbsp;&nbsp; *2 Summer Internships*
 
@@ -90,7 +90,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 * [Full Stack Angular with NestJS at STL DevFest](https://speakerdeck.com/adwiens/full-stack-angular-with-nestjs) (2019)
 * [Angular Drag-and-Drop at WindyCity DevFest](https://www.youtube.com/watch?v=UBbI6-QTdec) (2019)
 * [Angular Drag-and-Drop at STL DevFest](https://www.youtube.com/watch?v=JIqtgkKx7PE) (2019)
-* TensorFlow.js + Angular at COMO DevFest (2019)
+* [TensorFlow.js + Angular at COMO DevFest](https://speakerdeck.com/adwiens/machine-learning-with-angular-and-tensorflow-dot-js) (2019)
 
 #### Meetup Talks
 
@@ -98,4 +98,4 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### Blog Posts
 
-[Why You Should Try Ubuntu as Your Daily Driver OS](https://medium.com/@andywiens/why-you-should-try-ubuntu-again-5e8cb998c480) (2019) &#10027; [Loopback 3, TypeScript, and Custom Connectors](https://blog.oasisdigital.com/2018/loopback-3-typescript-custom-connectors/) (2018) &#10027; [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/) (2017) - Featured on Google Angular blog &#10027; [How I Learned Angular](https://blog.oasisdigital.com/2017/angular-from-the-fire-hose/) (2017)
+[Why You Should Try Ubuntu as Your Daily Driver OS](https://medium.com/@andywiens/why-you-should-try-ubuntu-again-5e8cb998c480) (2019) &#10027; [Loopback 3, TypeScript, and Custom Connectors](https://blog.oasisdigital.com/2018/loopback-3-typescript-custom-connectors/) (2018) &#10027; [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/) (2017) - [Featured on Google Angular blog](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e) &#10027;
