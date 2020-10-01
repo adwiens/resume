@@ -98,4 +98,4 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 #### Blog Posts
 
-[Why You Should Try Ubuntu as Your Daily Driver OS](https://medium.com/@andywiens/why-you-should-try-ubuntu-again-5e8cb998c480) (2019) &#10027; [Loopback 3, TypeScript, and Custom Connectors](https://blog.oasisdigital.com/2018/loopback-3-typescript-custom-connectors/) (2018) &#10027; [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/) (2017) - [Featured on Google Angular blog](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e) &#10027;
+[Why You Should Try Ubuntu as Your Daily Driver OS](https://medium.com/@andywiens/why-you-should-try-ubuntu-again-5e8cb998c480) (2019) &#10027; [Loopback 3, TypeScript, and Custom Connectors](https://blog.oasisdigital.com/2018/loopback-3-typescript-custom-connectors/) (2018) &#10027; [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/) (2017) - [Featured on Google Angular blog](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
