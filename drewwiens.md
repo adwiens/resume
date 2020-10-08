@@ -1,8 +1,8 @@
-## Drew Wiens – Full Stack Engineer
+## Drew Wiens – Front-End Engineer
 
 [drewwiens0@gmail.com](mailto:drewwiens0@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; 314-610-9194
 
-**Full Stack Engineer with 3.5 years of experience in Angular + Node while working at [Oasis](http://oasis.digital) for [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com).**
+Front-End Engineer with 3.5 years of experience in Angular + Node while working at [Oasis](http://oasis.digital) for [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com).**
 
 ### Skills
 
@@ -10,13 +10,13 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 ### Experience
 
-#### [ 2017 – Present ] &nbsp;&nbsp; [Oasis Digital Solutions](http://oasis.digital) &nbsp;&nbsp; *Frontend Engineer*
+#### [ 2017 – Present ] &nbsp;&nbsp; [Oasis Digital Solutions](http://oasis.digital) &nbsp;&nbsp; *Front-End Engineer*
 
 * Completed 5 Angular + Node projects for 2 Fortune 500 corps. and 2 corp. clients in 3 industries.
 * Gave 4 talks at conferences in Columbia MO, St. Louis, and Chicago, and 5 talks at Meetups.
 * Passed Google Cloud Platform Professional Data Engineer exam on first attempt (Nov 2019).
 
-#### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Frontend Engineer via Oasis*
+#### [ 2020 – Present ] &nbsp;&nbsp; [Coventor](http://coventor.com) & [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Front-End Engineer via Oasis*
 
 * Angular 10, [Angular Material](http://material.angular.io), [NestJS](https://nestjs.com), [GraphQL](https://graphql.org/), [NgRx](https://ngrx.io/), [Apollo Client + Server](https://www.apollographql.com/), [Postgraphile](https://www.graphile.org/postgraphile/).
 * Created the most complex page of the application: A visual table filtered on the backend by a variable number of Angular Reactive Forms inputs, and the GraphQL API that drives the frontend, including automatic client TypeScript code generation with `graphql-codegen`.
@@ -33,7 +33,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * Implemented _run-time_ i18n (internationalization) and l10n (localization) in CI/CD pipeline with Angular 9, [Angular cli](https://cli.angular.io/), and [Locl](https://github.com/loclapp/locl).
   * Sped up CI/CD 4x (16 mins → 4 mins) by parallelizing Azure Pipelines YAML tasks.
 
-#### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Frontend Engineer via Oasis*
+#### [ 2018 – 2019 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Front-End Engineer via Oasis*
 
 * Created and merged 231 pull requests = 27% of all mainline commits (#2 committer by volume).
 * Built a full stack Angular 6+ and Node 10+ web app start-to-finish and end-to-end w/ 1 other FTE
@@ -50,7 +50,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 * Wrote Node microservices and Angular web app within a large int'l team including Oasis.
 * Integrated microservices with ~1/2 dozen RESTful APIs by working with several backend teams.
 
-#### [ 2017 – 2018 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Frontend Engineer via Oasis*
+#### [ 2017 – 2018 ] &nbsp;&nbsp; [Lam Research Corporation](http://lamresearch.com) &nbsp;&nbsp; *Front-End Engineer via Oasis*
 
 * Created and merged 53 pull requests = 19% of all mainline commits (#3 committer by volume).
 * Built a full stack enterprise Angular 5+ and Node 8+ web app start-to-finish with 3 other FTE's.
@@ -68,7 +68,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
   * [Published 5 journal papers](https://scholar.google.com/citations?user=_N2X7KwAAAAJ) (4 first-author papers & 4 [IEEE](http://www.ieee.org/) journals)
   * Published 6 conference papers (5 first-author).
   * Presented 5 conference talks (1 invited talk) and mentored 8 students (5 undergrads).
-  * Submitted US Patent application materials to Georgia Tech's patent office.
+  * Submitted US Patent application materials (Patent finalized in 2020).
 
 #### [ 2015 ] &nbsp;&nbsp; [NASA White Sands Test Facility](https://www.nasa.gov/centers/wstf/index_new.html) &nbsp;&nbsp; *Remote Software Engineer*
 
