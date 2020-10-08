@@ -2,7 +2,7 @@
 
 [drewwiens0@gmail.com](mailto:drewwiens0@gmail.com) &#10027; [drewwiens.com](http://drewwiens.com) &#10027; 314-610-9194 &#10027; [LinkedIn Profile](https://www.linkedin.com/in/drewwiens0/)
 
-Front-End Engineer with 3.5 years of experience in Angular + Node while working at [Oasis](http://oasis.digital) for [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com).**
+Front-End Engineer with 3.5 years of experience in Angular + Node while working at [Oasis](http://oasis.digital) for [Coventor](http://coventor.com), [Lam Research Corporation](http://lamresearch.com), [Elekta](http://elekta.com), and [PricewaterhouseCoopers](http://pwc.com).
 
 ### Skills
 
