@@ -82,7 +82,7 @@ _Alphabetized; Very Proficient in **Bold**:_ &nbsp;&nbsp; **[Ag-Grid](https://ww
 
 ### Education
 
-* MS Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
+* MS Electrical & Computer Engineering at [Georgia Tech](http://gatech.edu), 3.8 GPA, 2015. ([Publications](https://scholar.google.com/citations?user=_N2X7KwAAAAJ))
 * BS Computer Engineering at [Washington University in St. Louis](http://wustl.edu), 3.77 GPA, 2013.
 
 ### Conference Talks
